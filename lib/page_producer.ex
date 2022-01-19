@@ -34,3 +34,6 @@ defmodule PageProducer do
     {:noreply, pages, state}
   end
 end
+
+# Commands
+# PageProducer.scrape_pages(pages)
